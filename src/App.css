@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+justify-content: center;
+text-align: center;
+
+}
+
+
+
+
+
+p{
+font-size: 40px;
+margin-top:3rem ;
+
+}
+button{
+
+  padding: 0.75rem;
+  font-size: 34px;
+  text-align: center;
+  font-weight: 700;
+  color: rgb(74, 24, 4);
+  margin-left: 10px;
+  margin-bottom: 15px;
+  background-color: #fff4f4;
+}
+input{
+  
+  font-size: 40px;
+  border-radius: 0 100px 0 100px;
+  height: 91px;
+  text-transform: uppercase;
+text-align: center;
+}
